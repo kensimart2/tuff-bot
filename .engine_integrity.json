@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "files": {
+    "bypass.lua": "34068d1c4cf22968d43da65a64efd9f6ef65dace7d6d0004679caea22c43bba2",
+    "dumper.lua": "9d4e1c6d62f94db971f0c0334d6e614a055a7f7150bb3d451c308137ade5ef97",
+    "lune_sandbox_runner.luau": "efb65b5e997b92022001043ca6ae5d521d756665832f9e7d2a8459ec1b9201e4",
+    "roblox_api_registry.luau": "59b8e5d5ff6e814721fc8134eecc4a08e54918f8c2e2727ba662c1542198e58c",
+    "dumper2.lua": "579d1656836452025daaf88261b80c3f32d3f9423cf7d538486a0955d98c1c2d"
+  }
+}

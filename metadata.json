@@ -1,0 +1,6 @@
+{
+  "name": "kenV1 | envlogger",
+  "description": "Discord bot and Lua script analysis engine with integrated keep-alive monitoring server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
